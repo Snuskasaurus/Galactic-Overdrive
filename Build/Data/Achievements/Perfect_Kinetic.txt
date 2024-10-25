@@ -1,0 +1,4 @@
+ID_NAME Perfect_Kinetic
+ICON Perfect_Kinetic.png
+TITLE Yellow is for Kinetic
+DESC You made a perfect by killing a yellow enemy with your kinetic weapon !

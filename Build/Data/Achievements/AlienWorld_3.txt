@@ -1,0 +1,4 @@
+ID_NAME AlienWorld_3
+ICON AlienWorld_3.png
+TITLE This planet is belong to us ! (Commander)
+DESC Finish the Alien world in commander difficulty

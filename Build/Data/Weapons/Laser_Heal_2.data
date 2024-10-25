@@ -1,0 +1,13 @@
+NAME Laser_Heal_2
+ANIMATIONS_NAME Laser_Heal
+ANIMATION_PROJ Laser_Heal_Head
+ANIMATION_BODY Laser_Heal_Body
+ANIMATION_BASE Laser_Heal_Base
+TYPE 3
+BEHAVIOUR 4
+DAMAGE 300
+SPRITE_ICON Data/Sprites/Weapons_Icon/Laser_Heal.png
+PRICE 10000
+VISIBLE_IN_SHOP 1
+SOUNDS_SHOOTING 2 LaserStart.wav Laser_loop.wav
+TIER 1

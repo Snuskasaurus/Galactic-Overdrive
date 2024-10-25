@@ -1,0 +1,2 @@
+NAME Boss_Intro
+STATE Boss_Introduction MAX_TIME 0.6 LOOP 1 DIR Data/Sprites/Animations/Boss_Intro

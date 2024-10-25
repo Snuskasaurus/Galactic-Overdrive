@@ -1,0 +1,8 @@
+NAME Rez Allies
+TYPE 5
+SCORE_TO_UNLOCK 250000
+STORAGE_CAP 4
+BASE_NB_SKILLS_IN_STORAGE 1
+ANIMATION UseRez
+ANIMATION_REZ BeingRez
+PATH_ICON Data/Sprites/Capacity_Icon/CapacityIconReinforcement.png

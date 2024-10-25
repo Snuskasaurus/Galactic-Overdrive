@@ -1,0 +1,5 @@
+NAME BigBoss
+STATE BigBoss_Phase1 MAX_TIME 3.0 LOOP 1 DIR Data/Sprites/Animations/Boss/BigBoss/Phase1
+STATE BigBoss_Phase1_Introduction MAX_TIME 3.0 LOOP 0 DIR Data/Sprites/Animations/Boss/BigBoss/Phase1_Introduction
+STATE BigBoss_Phase2 MAX_TIME 3.0 LOOP 1 DIR Data/Sprites/Animations/Boss/BigBoss/Phase2
+STATE BigBoss_Phase3 MAX_TIME 3.0 LOOP 1 DIR Data/Sprites/Animations/Boss/BigBoss/Phase3

@@ -1,0 +1,4 @@
+ID_NAME NoWeapon
+ICON NoWeapon.png
+TITLE My ship doesn't need upgrades !
+DESC End the game without buying a weapon in normal difficulty or more

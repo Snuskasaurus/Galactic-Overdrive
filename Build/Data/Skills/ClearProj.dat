@@ -1,0 +1,8 @@
+NAME Clear Projectiles
+TYPE 3
+SCORE_TO_UNLOCK 250000
+STORAGE_CAP 2
+BASE_NB_SKILLS_IN_STORAGE 0
+ANIMATION ClearProj
+PATH_ICON Data/Sprites/Capacity_Icon/CapacityIconProjectileDestruction.png
+BASE_SOUND Skill_ClearProj.wav

@@ -1,0 +1,4 @@
+ID_NAME Cleared
+ICON Cleared.png
+TITLE Their presence isn't allowed
+DESC Kill all the enemies of one level !

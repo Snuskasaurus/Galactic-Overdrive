@@ -1,0 +1,19 @@
+NAME Explosions
+STATE SmallFireball_1 MAX_TIME 0.5 LOOP 0 DIR Data/Sprites/Animations/Explosions/SmallFireball_1
+STATE SmallFireball_2 MAX_TIME 0.5 LOOP 0 DIR Data/Sprites/Animations/Explosions/SmallFireball_2
+STATE SmallFireball_3 MAX_TIME 0.5 LOOP 0 DIR Data/Sprites/Animations/Explosions/SmallFireball_3
+STATE SmallEnergyball_1 MAX_TIME 0.5 LOOP 0 DIR Data/Sprites/Animations/Explosions/SmallEnergyball_1
+STATE SmallEnergyball_2 MAX_TIME 0.5 LOOP 0 DIR Data/Sprites/Animations/Explosions/SmallEnergyball_2
+STATE SmallEnergyball_3 MAX_TIME 0.5 LOOP 0 DIR Data/Sprites/Animations/Explosions/SmallEnergyball_3
+STATE SmallExplosiveBall_1 MAX_TIME 0.5 LOOP 0 DIR Data/Sprites/Animations/Explosions/SmallExplosive_1
+STATE SmallExplosiveBall_2 MAX_TIME 0.5 LOOP 0 DIR Data/Sprites/Animations/Explosions/SmallExplosive_2
+STATE SmallExplosiveBall_3 MAX_TIME 0.5 LOOP 0 DIR Data/Sprites/Animations/Explosions/SmallExplosive_3
+STATE Impact_Cinetic_1 MAX_TIME 0.2 LOOP 0 DIR Data/Sprites/Animations/Explosions/Impact_Cinetic_1
+STATE Impact_Cinetic_2 MAX_TIME 0.2 LOOP 0 DIR Data/Sprites/Animations/Explosions/Impact_Cinetic_2
+STATE Impact_Explosive_1 MAX_TIME 0.2 LOOP 0 DIR Data/Sprites/Animations/Explosions/Impact_Explosive_1
+STATE Impact_Energetic_1 MAX_TIME 0.2 LOOP 0 DIR Data/Sprites/Animations/Explosions/Impact_Energetic_1
+STATE Money100 MAX_TIME 0.8 LOOP 0 DIR Data/Sprites/Animations/Explosions/Text_Money_100
+STATE Money500 MAX_TIME 0.8 LOOP 0 DIR Data/Sprites/Animations/Explosions/Text_Money_500
+STATE Money1000 MAX_TIME 0.8 LOOP 0 DIR Data/Sprites/Animations/Explosions/Text_Money_1000
+STATE Good MAX_TIME 0.26 LOOP 0 DIR Data/Sprites/Animations/Explosions/Text_Good
+STATE Perfect MAX_TIME 0.26 LOOP 0 DIR Data/Sprites/Animations/Explosions/Text_Perfect

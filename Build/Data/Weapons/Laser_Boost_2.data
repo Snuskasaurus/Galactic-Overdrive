@@ -1,0 +1,13 @@
+NAME Laser_Boost_2
+ANIMATIONS_NAME Laser_Boost
+ANIMATION_PROJ Laser_Boost_Head
+ANIMATION_BODY Laser_Boost_Body
+ANIMATION_BASE Laser_Boost_Base
+TYPE 4
+BEHAVIOUR 4
+DAMAGE 0.55
+SPRITE_ICON Data/Sprites/Weapons_Icon/Laser_Boost.png
+PRICE 10000
+VISIBLE_IN_SHOP 1
+SOUNDS_SHOOTING 2 LaserStart.wav Laser_loop.wav
+TIER 1

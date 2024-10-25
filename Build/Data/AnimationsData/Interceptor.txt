@@ -1,0 +1,4 @@
+NAME Interceptor
+STATE DefaultShip_Idle MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/DefaultShip/Idle
+STATE DefaultShip_Right MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/DefaultShip/Right
+STATE DefaultShip_Left MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/DefaultShip/Left

@@ -1,0 +1,4 @@
+ID_NAME TerraWorld_1
+ICON TerraWorld_1.png
+TITLE Where do they come from ? (Recruit)
+DESC Defeat the invasion of Terra in recruit difficulty.

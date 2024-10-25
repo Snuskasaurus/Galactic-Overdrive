@@ -1,0 +1,4 @@
+ID_NAME AlienWorld_2
+ICON AlienWorld_2.png
+TITLE This planet is belong to us ! (Ensign)
+DESC Finish the Alien world in ensign difficulty

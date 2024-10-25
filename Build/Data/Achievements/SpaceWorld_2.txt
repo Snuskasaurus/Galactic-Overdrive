@@ -1,0 +1,4 @@
+ID_NAME SpaceWorld_2
+ICON SpaceWorld_2.png
+TITLE We're next door ! (Ensign)
+DESC Finish the human world in ensign difficulty

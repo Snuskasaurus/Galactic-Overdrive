@@ -1,0 +1,4 @@
+NAME Protector
+STATE TankShip_Idle MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/TankShip/Idle
+STATE TankShip_Right MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/TankShip/Right
+STATE TankShip_Left MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/TankShip/Left

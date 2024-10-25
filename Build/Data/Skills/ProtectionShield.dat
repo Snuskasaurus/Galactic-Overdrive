@@ -1,0 +1,9 @@
+NAME Protection Shield
+TYPE 4
+SCORE_TO_UNLOCK 25000
+STORAGE_CAP 4
+BASE_NB_SKILLS_IN_STORAGE 2
+ANIMATION ProtectionShield
+SHIELD_PROTECTION_QUANTITY 3
+PATH_ICON Data/Sprites/Capacity_Icon/CapacityIconShieldAllies.png
+BASE_SOUND Skill_Shield.wav

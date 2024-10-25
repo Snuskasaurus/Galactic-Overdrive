@@ -1,0 +1,4 @@
+NAME Money
+STATE Money_Copper MAX_TIME 1.2 LOOP 1 DIR Data/Sprites/Animations/Money/Copper
+STATE Money_Silver MAX_TIME 1.2 LOOP 1 DIR Data/Sprites/Animations/Money/Silver
+STATE Money_Gold MAX_TIME 1.2 LOOP 1 DIR Data/Sprites/Animations/Money/Gold

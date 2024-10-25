@@ -1,0 +1,5 @@
+TYPE 3
+SIZE 7
+ANIMATION Money500
+SCALE 0.7
+SOUNDS_EXPLO 1 Coin_collect.wav

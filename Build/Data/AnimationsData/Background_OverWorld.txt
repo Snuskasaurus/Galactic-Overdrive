@@ -1,0 +1,2 @@
+NAME Background_OverWorld
+STATE loop MAX_TIME 0.7 LOOP 1 DIR Data/Sprites/Animations/MapAnimations/AnimBackground/Background_OverWorld

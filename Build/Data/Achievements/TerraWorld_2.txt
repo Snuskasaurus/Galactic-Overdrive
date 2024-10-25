@@ -1,0 +1,4 @@
+ID_NAME TerraWorld_2
+ICON TerraWorld_2.png
+TITLE Where do they come from ? (Ensign)
+DESC Defeat the invasion of Terra in ensign difficulty.

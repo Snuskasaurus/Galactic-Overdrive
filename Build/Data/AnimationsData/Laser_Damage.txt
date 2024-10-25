@@ -1,0 +1,4 @@
+NAME Laser_Damage
+STATE Laser_Damage_Head MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Laser_Damage/Head
+STATE Laser_Damage_Body MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Laser_Damage/Body
+STATE Laser_Damage_Base MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Laser_Damage/Base

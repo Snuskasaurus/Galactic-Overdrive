@@ -1,0 +1,2 @@
+NAME Rocket_2
+STATE Rocket_2 MAX_TIME 0.6 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Rocket_2

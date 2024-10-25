@@ -1,0 +1,2 @@
+NAME DefeatScreen
+STATE DefeatScreen MAX_TIME 0.8 LOOP 1 DIR Data/Sprites/Animations/DefeatScreen

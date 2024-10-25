@@ -1,0 +1,4 @@
+ID_NAME TerraWorld_3
+ICON TerraWorld_3.png
+TITLE Where do they come from ? (Commander)
+DESC Defeat the invasion of Terra in commander difficulty.

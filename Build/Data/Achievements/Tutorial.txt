@@ -1,0 +1,4 @@
+ID_NAME Tutorial
+ICON Tutorial.png
+TITLE Can I figth now ?
+DESC You finished the tutorial and you're now ready to fight the aliens !

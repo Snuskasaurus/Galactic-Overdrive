@@ -1,0 +1,4 @@
+ID_NAME Perfect_Energetic
+ICON Perfect_Energetic.png
+TITLE Purple is for Energy
+DESC You made a perfect by killing a purple enemy with your energy weapon !

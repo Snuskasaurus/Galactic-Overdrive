@@ -1,0 +1,16 @@
+NAME Enemy_Single_Aimed_Railgun
+SPRITE_PROJECTILE Data/Sprites/Projectiles/RaigunProjectilePlayer.png
+TYPE 0
+BEHAVIOUR 0
+AIMING_TYPE 0
+DAMAGE 20
+RATE 1.0
+SHOOTS 1
+SHOT_OFFSET 40
+PRECISION 90
+PRECISION_ANGLE 2
+SPEED 600
+SOUNDS_SHOOTING 3 Minigun1.wav Minigun2.wav Minigun3.wav
+SPRITE_ICON Data/Sprites/Weapons_Icon/Minigun.png
+PRICE 0
+VISIBLE_IN_SHOP 0

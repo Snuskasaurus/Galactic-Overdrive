@@ -1,0 +1,2 @@
+NAME PlaceHolder_AnimTerrain
+STATE loop MAX_TIME 0.7 LOOP 1 DIR Data/Sprites/Animations/MapAnimations/AnimTerrains/PlaceHolder_AnimTerrain

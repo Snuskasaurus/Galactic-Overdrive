@@ -1,0 +1,4 @@
+TYPE 2
+SIZE 0
+ANIMATION SmallExplosiveBall_2
+SOUNDS_EXPLO 1 EnergyDamage.wav

@@ -1,0 +1,4 @@
+TYPE 0
+SIZE 0
+ANIMATION SmallFireball_2
+SOUNDS_EXPLO 3 Explosion_Classic.wav Explosion_HighImpact_ShortLoud.wav Explosion_HighImpact.wav

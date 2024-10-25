@@ -1,0 +1,4 @@
+NAME Laser_Heal
+STATE Laser_Heal_Head MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Laser_Heal/Head
+STATE Laser_Heal_Body MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Laser_Heal/Body
+STATE Laser_Heal_Base MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Laser_Heal/Base

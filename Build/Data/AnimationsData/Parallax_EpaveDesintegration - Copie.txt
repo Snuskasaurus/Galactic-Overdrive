@@ -1,0 +1,2 @@
+NAME EpaveDesintegration
+STATE loop MAX_TIME 1.5 LOOP 1 DIR Data/Sprites/Animations/MapAnimations/AnimParalaxes/EpaveDesintegration

@@ -1,0 +1,2 @@
+NAME SpaceCarrier
+STATE SpaceCarrier MAX_TIME 1.6 LOOP 1 DIR Data/Sprites/Animations/Boss/SpaceCarrier

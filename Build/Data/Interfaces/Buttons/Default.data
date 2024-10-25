@@ -1,0 +1,7 @@
+BUTTON_DISABLED SPRITE Data/Sprites/Interfaces/Buttons/Default/ButtonDefault_Disabled.png SOUND NULL COLOR 125 125 125 255
+BUTTON_WAITING SPRITE Data/Sprites/Interfaces/Buttons/Default/ButtonDefault_Waiting.png SOUND NULL COLOR 255 255 255 255
+BUTTON_HOVERED SPRITE Data/Sprites/Interfaces/Buttons/Default/ButtonDefault_Hovered.png SOUND Interfaces/Buttons/ButtonDefault_Hovered.wav COLOR 9 100 166 127
+BUTTON_PRESSED SPRITE Data/Sprites/Interfaces/Buttons/Default/ButtonDefault_Pressed.png SOUND Interfaces/Buttons/ButtonDefault_Pressed.wav COLOR 255 255 255 255
+BUTTON_RELEASED SPRITE NULL SOUND Interfaces/Buttons/Default/ButtonDefault_Released.wav COLOR 255 255 255 255
+COLLIDER NULL
+FONT Bubblegum.ttf 30

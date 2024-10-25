@@ -1,0 +1,4 @@
+ID_NAME AlienWorld_1
+ICON AlienWorld_1.png
+TITLE This planet is belong to us ! (Recruit)
+DESC Finish the Alien world in recruit difficulty

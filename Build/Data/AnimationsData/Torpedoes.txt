@@ -1,0 +1,2 @@
+NAME Torpedoes
+STATE Torpedoes MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Topedoes

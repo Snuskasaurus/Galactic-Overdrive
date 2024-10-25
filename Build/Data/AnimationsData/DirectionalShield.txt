@@ -1,0 +1,2 @@
+NAME DirectionalShield
+STATE DirectionalShield MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Weapons/DirectionalShield

@@ -1,0 +1,13 @@
+NAME Skills
+STATE Regen MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Skills/Regen
+STATE DmgBoost MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Skills/DmgBoost
+STATE ClearProj MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/Skills/ClearProj
+STATE EnemyClear MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/Skills/EnemyClear
+STATE ProtectionShield MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/Skills/ProtectionShield
+STATE UseRez MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/Skills/UseRez
+STATE BeingRez MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/Skills/BeingRez
+STATE Teleportation MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Skills/Teleportation
+STATE TP_Blast MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/Skills/TP_Blast
+STATE TP_Disappear MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/Skills/TP_Disappear
+STATE Dash MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Skills/Dash
+

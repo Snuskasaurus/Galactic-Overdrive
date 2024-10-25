@@ -1,0 +1,4 @@
+ID_NAME SpaceWorld_3
+ICON SpaceWorld_3.png
+TITLE We're next door ! (Commander)
+DESC Finish the human world in commander difficulty

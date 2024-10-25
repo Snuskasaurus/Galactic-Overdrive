@@ -1,0 +1,4 @@
+NAME Predator
+STATE PolyvalentShip_Idle MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/PolyvalentShip/Idle
+STATE PolyvalentShip_Right MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/PolyvalentShip/Right
+STATE PolyvalentShip_Left MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/PolyvalentShip/Left

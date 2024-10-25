@@ -1,0 +1,492 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Internal Dependencies">
+      <UniqueIdentifier>{97c492ad-ef17-41c4-bf88-21cf8ce8aa5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\Engine">
+      <UniqueIdentifier>{5c895438-a511-4cee-983e-95f601dc864e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\States">
+      <UniqueIdentifier>{5b515d39-1b16-4a14-80e8-411dc344592a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\Entities">
+      <UniqueIdentifier>{f5f7503b-226a-4523-b983-004860361b63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\Components">
+      <UniqueIdentifier>{145fa259-ed67-4be3-8407-bfb381955aa5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\Mechanics">
+      <UniqueIdentifier>{5e554048-3f30-4710-9f08-770952c58ff3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\States\[0]Splash">
+      <UniqueIdentifier>{51a19d1c-ea29-4808-861a-f67303a9d125}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\States\[2]Game">
+      <UniqueIdentifier>{ba9a8f99-c8c9-4866-80bf-74c2fad3a634}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\States\[1]Menu">
+      <UniqueIdentifier>{3a1b0c24-0cb9-4665-8242-770e6e4bb8de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\States\[3]Credit">
+      <UniqueIdentifier>{1b95752a-d6e5-4b3e-bd01-d2e960214909}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_Exemples">
+      <UniqueIdentifier>{4b9db61a-9e08-4fd1-89fd-534eb909c70b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\Interfaces">
+      <UniqueIdentifier>{1f97cfc1-6846-4a4f-9c75-0159e3580a99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\States\[4]Overworld">
+      <UniqueIdentifier>{ad5ef38e-174b-45bf-8515-cf38f61a5da5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\States\[5]Editor">
+      <UniqueIdentifier>{baf6932a-645a-4ca8-abcb-d7519cd1da2a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Sources\States\[6]Shop">
+      <UniqueIdentifier>{951a0a3e-b2b9-43ac-8f67-cdaac34f1d8d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Splash_Display.c">
+      <Filter>Sources\States\[0]Splash</Filter>
+    </ClCompile>
+    <ClCompile Include="Splash_Initialize.c">
+      <Filter>Sources\States\[0]Splash</Filter>
+    </ClCompile>
+    <ClCompile Include="Splash_Update.c">
+      <Filter>Sources\States\[0]Splash</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Display.c">
+      <Filter>Sources\States\[1]Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Initialize.c">
+      <Filter>Sources\States\[1]Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Update.c">
+      <Filter>Sources\States\[1]Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.c">
+      <Filter>Sources\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="_Main.c">
+      <Filter>Sources\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Display.c">
+      <Filter>Sources\States\[2]Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Initialize.c">
+      <Filter>Sources\States\[2]Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Update.c">
+      <Filter>Sources\States\[2]Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Credit_Display.c">
+      <Filter>Sources\States\[3]Credit</Filter>
+    </ClCompile>
+    <ClCompile Include="Credit_Initialize.c">
+      <Filter>Sources\States\[3]Credit</Filter>
+    </ClCompile>
+    <ClCompile Include="Credit_Update.c">
+      <Filter>Sources\States\[3]Credit</Filter>
+    </ClCompile>
+    <ClCompile Include="Splash_Exit.c">
+      <Filter>Sources\States\[0]Splash</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Exit.c">
+      <Filter>Sources\States\[1]Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Exit.c">
+      <Filter>Sources\States\[2]Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Credit_Exit.c">
+      <Filter>Sources\States\[3]Credit</Filter>
+    </ClCompile>
+    <ClCompile Include="Configuration.c">
+      <Filter>Sources\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.c">
+      <Filter>Sources\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Button.c">
+      <Filter>Sources\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.c">
+      <Filter>Sources\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.c">
+      <Filter>Internal Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="String.c">
+      <Filter>Internal Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.c">
+      <Filter>Sources\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Function.c">
+      <Filter>Sources\States\[1]Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Splash_HandleEvent.c">
+      <Filter>Sources\States\[0]Splash</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_HandleEvent.c">
+      <Filter>Sources\States\[1]Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_HandleEvent.c">
+      <Filter>Sources\States\[2]Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Credit_HandleEvent.c">
+      <Filter>Sources\States\[3]Credit</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Projectiles.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="_Defines.h">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Animation.c">
+      <Filter>Sources\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Overworld_Display.c">
+      <Filter>Sources\States\[4]Overworld</Filter>
+    </ClCompile>
+    <ClCompile Include="Overworld_Exit.c">
+      <Filter>Sources\States\[4]Overworld</Filter>
+    </ClCompile>
+    <ClCompile Include="Overworld_HandleEvent.c">
+      <Filter>Sources\States\[4]Overworld</Filter>
+    </ClCompile>
+    <ClCompile Include="Overworld_Initialize.c">
+      <Filter>Sources\States\[4]Overworld</Filter>
+    </ClCompile>
+    <ClCompile Include="Overworld_Update.c">
+      <Filter>Sources\States\[4]Overworld</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor_Display.c">
+      <Filter>Sources\States\[5]Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor_HandleEvent.c">
+      <Filter>Sources\States\[5]Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor_Initialize.c">
+      <Filter>Sources\States\[5]Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor_Update.c">
+      <Filter>Sources\States\[5]Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor_Exit.c">
+      <Filter>Sources\States\[5]Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.c">
+      <Filter>Internal Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Collisions.c">
+      <Filter>Sources\States\[2]Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Editor_Function.c">
+      <Filter>Sources\States\[5]Editor</Filter>
+    </ClCompile>
+    <ClCompile Include="SpawnEnemies.c">
+      <Filter>Sources\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="Path.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.c">
+      <Filter>Sources\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Collision.c">
+      <Filter>Internal Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Carousel.c">
+      <Filter>Sources\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="Laser.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Slider.c">
+      <Filter>Sources\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.c">
+      <Filter>Sources\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectoryManipulation.c">
+      <Filter>Sources\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="List.c">
+      <Filter>Internal Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Explosion.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Skill.c">
+      <Filter>Sources\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="Boss.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Money.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="VisualFeedback.c">
+      <Filter>Internal Dependencies</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_Function.c">
+      <Filter>Sources\States\[2]Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Score.c">
+      <Filter>Sources\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="Turret.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Difficulty.c">
+      <Filter>Sources\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="DirectionalShield.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="World.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop_Display.c">
+      <Filter>Sources\States\[6]Shop</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop_Exit.c">
+      <Filter>Sources\States\[6]Shop</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop_HandleEvent.c">
+      <Filter>Sources\States\[6]Shop</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop_Initialize.c">
+      <Filter>Sources\States\[6]Shop</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop_Update.c">
+      <Filter>Sources\States\[6]Shop</Filter>
+    </ClCompile>
+    <ClCompile Include="Shopping.c">
+      <Filter>Sources\Mechanics</Filter>
+    </ClCompile>
+    <ClCompile Include="AnimatedStarsBackground.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Shadow.c">
+      <Filter>Sources\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Notification.c">
+      <Filter>Sources\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="Achievements.c">
+      <Filter>Sources\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Progression.c">
+      <Filter>Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Fade.c">
+      <Filter>Sources\Interfaces</Filter>
+    </ClCompile>
+    <ClCompile Include="Easing.c">
+      <Filter>Internal Dependencies</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Splash.h">
+      <Filter>Sources\States\[0]Splash</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Sources\States\[1]Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Sources\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Sources\States\[2]Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Credit.h">
+      <Filter>Sources\States\[3]Credit</Filter>
+    </ClInclude>
+    <ClInclude Include="_Commentaries.h">
+      <Filter>_Exemples</Filter>
+    </ClInclude>
+    <ClInclude Include="Configuration.h">
+      <Filter>Sources\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Sources\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Button.h">
+      <Filter>Sources\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Sources\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>Internal Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="String.h">
+      <Filter>Internal Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Sources\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="_MainData.h">
+      <Filter>Sources\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="_Engine.h">
+      <Filter>Sources\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Projectiles.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="_Includes.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="_Typedef.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="_Enumerations.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="_Structures.h">
+      <Filter>Sources</Filter>
+    </ClInclude>
+    <ClInclude Include="Animation.h">
+      <Filter>Sources\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Overworld.h">
+      <Filter>Sources\States\[4]Overworld</Filter>
+    </ClInclude>
+    <ClInclude Include="Editor.h">
+      <Filter>Sources\States\[5]Editor</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Internal Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="SpawnEnemies.h">
+      <Filter>Sources\Mechanics</Filter>
+    </ClInclude>
+    <ClInclude Include="Path.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Sources\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Internal Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="Carousel.h">
+      <Filter>Sources\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Laser.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Slider.h">
+      <Filter>Sources\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Shaders.h">
+      <Filter>Sources\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectoryManipulation.h">
+      <Filter>Sources\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>Internal Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="Explosion.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Skill.h">
+      <Filter>Sources\Mechanics</Filter>
+    </ClInclude>
+    <ClInclude Include="Boss.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Money.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="VisualFeedback.h">
+      <Filter>Internal Dependencies</Filter>
+    </ClInclude>
+    <ClInclude Include="Score.h">
+      <Filter>Sources\Mechanics</Filter>
+    </ClInclude>
+    <ClInclude Include="Turret.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Difficulty.h">
+      <Filter>Sources\Mechanics</Filter>
+    </ClInclude>
+    <ClInclude Include="DirectionalShield.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Shop.h">
+      <Filter>Sources\States\[6]Shop</Filter>
+    </ClInclude>
+    <ClInclude Include="Shopping.h">
+      <Filter>Sources\Mechanics</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedStarsBackground.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Shadow.h">
+      <Filter>Sources\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Notification.h">
+      <Filter>Sources\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Achievements.h">
+      <Filter>Sources\Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Progression.h" />
+    <ClInclude Include="Fade.h">
+      <Filter>Sources\Interfaces</Filter>
+    </ClInclude>
+    <ClInclude Include="Easing.h">
+      <Filter>Internal Dependencies</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="_project.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="icon.ico" />
+  </ItemGroup>
+</Project>

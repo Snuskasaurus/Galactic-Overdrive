@@ -1,0 +1,8 @@
+NAME Clear Enemies
+TYPE 2
+SCORE_TO_UNLOCK 250000
+STORAGE_CAP 1
+BASE_NB_SKILLS_IN_STORAGE 0
+ANIMATION EnemyClear
+PATH_ICON Data/Sprites/Capacity_Icon/CapacityIconEnemyDestruction.png
+BASE_SOUND Skill_ClearEnnemies.wav

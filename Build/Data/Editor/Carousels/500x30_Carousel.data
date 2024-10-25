@@ -1,0 +1,5 @@
+BUTTON_LEFT FILE Data/Editor/Carousels/500x30_Carousel_LeftButton.data
+BUTTON_RIGHT FILE Data/Editor/Carousels/500x30_Carousel_RightButton.data
+BACKGROUND SPRITE Data/Editor/Carousels/Sprites/CAROUSEL_BACKGROUND.png
+FONT TITLE Roboto-Regular.ttf SIZE 16 COLOR 240 240 240 255
+FONT CONTENT Roboto-Regular.ttf SIZE 16 COLOR 240 240 240 255

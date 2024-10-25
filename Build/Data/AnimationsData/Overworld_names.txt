@@ -1,0 +1,6 @@
+NAME OW_Names
+STATE Name_Terre MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Overworld/Title/Terre
+STATE Name_Space MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Overworld/Title/Space
+STATE Name_Sheth MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Overworld/Title/Sheth
+STATE Name_Simulation MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Overworld/Title/Simulation
+STATE Name_Custom MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Overworld/Title/Custom

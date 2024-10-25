@@ -1,0 +1,4 @@
+ID_NAME SpaceWorld_1
+ICON SpaceWorld_1.png
+TITLE We're next door ! (Recruit)
+DESC Finish the human world in recruit difficulty

@@ -1,0 +1,4 @@
+NAME Laser_Boost
+STATE Laser_Boost_Head MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Laser_Boost/Head
+STATE Laser_Boost_Body MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Laser_Boost/Body
+STATE Laser_Boost_Base MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/Projectiles/Laser_Boost/Base

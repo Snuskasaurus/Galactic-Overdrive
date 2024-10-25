@@ -1,0 +1,4 @@
+NAME Caretaker
+STATE HealerShip_Idle MAX_TIME 0.3 LOOP 1 DIR Data/Sprites/Animations/HealerShip/Idle
+STATE HealerShip_Right MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/HealerShip/Right
+STATE HealerShip_Left MAX_TIME 0.3 LOOP 0 DIR Data/Sprites/Animations/HealerShip/Left

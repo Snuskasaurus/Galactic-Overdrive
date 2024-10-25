@@ -1,0 +1,9 @@
+NAME Regeneration
+TYPE 0
+SCORE_TO_UNLOCK 25000
+STORAGE_CAP 2
+BASE_NB_SKILLS_IN_STORAGE 1
+DURATION 10
+ANIMATION Regen
+REGEN_SPEED 50
+PATH_ICON Data/Sprites/Capacity_Icon/CapacityIconHealthRegeneration.png

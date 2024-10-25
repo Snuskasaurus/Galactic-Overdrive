@@ -1,0 +1,4 @@
+ID_NAME Perfect_Explosive
+ICON Perfect_Explosive.png
+TITLE Red is for Explosive
+DESC You made a perfect by killing a red enemy with your explosive weapon !
